@@ -37,7 +37,7 @@ We'll be creating a single model app to demonstrate editing resources. Its impor
 
 * Fork and clone this repo
 * cd into the directory
-* Create app `rails new ./ -T -d postgresql`
+* Create app `rails new ./ -d postgresql`
 * Create database `rake db:create`
 * Test app
   * Run server `rails s`
